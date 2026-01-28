@@ -1,8 +1,3 @@
----
-tags:
-  - elmwood
-  - computers
----
 
 *blank canvas used for developing ideas while designing/building. will update and finalize at some point*
 
