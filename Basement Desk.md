@@ -23,6 +23,8 @@ Thickness: 1.5"
 
 # Extrusion Parts List
 
+*still in design phase - will update once design has been finalized
+
 # Components
 
 ## Already Owned
